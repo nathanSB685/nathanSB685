@@ -1,8 +1,8 @@
 # 👨‍💻 Nathan
 
-**`Estudando Stack WAMP`**
+**`Estudando Stack PERN`**
 
-Me chamo Nathan Silva Barros, tenho 19 anos e moro em São Paulo, atualmente curso Analise e Desenvolvimento de Sistemas na UNICSUL(2º Semestre).
+Me chamo Nathan Silva Barros, tenho 20 anos e moro em São Paulo, atualmente curso Analise e Desenvolvimento de Sistemas na UNICSUL(3º Semestre).
 
 <p align="left">
     <a href="https://github.com/nathanSB685?tab=repositories&sort=stargazers">
@@ -50,6 +50,30 @@ Me chamo Nathan Silva Barros, tenho 19 anos e moro em São Paulo, atualmente cur
 />
 <img
     align="left" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+<img
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -88,6 +112,7 @@ Me chamo Nathan Silva Barros, tenho 19 anos e moro em São Paulo, atualmente cur
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+                    
 <br>
 <br>
 
