@@ -2,7 +2,7 @@
 
 **`Estudando Stack PERN`**
 
-Me chamo Nathan Silva Barros, tenho 20 anos e moro em São Paulo, atualmente curso Analise e Desenvolvimento de Sistemas na UNICSUL(3º Semestre).
+Me chamo Nathan Silva Barros, tenho 20 anos e moro em São Paulo, atualmente curso Analise e Desenvolvimento de Sistemas na UNICSUL(4º Semestre).
 
 <p align="left">
     <a href="https://github.com/nathanSB685?tab=repositories&sort=stargazers">
